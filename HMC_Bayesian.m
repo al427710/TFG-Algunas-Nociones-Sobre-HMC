@@ -109,7 +109,7 @@ fprintf('MH Acceptance Rate  = %.3f\n',acc_rate_MH);
 fprintf('HMC Acceptance Rate = %.3f\n',acc_rate_HMC);
 
 
-%% TRACEPLOTS
+%% TRAZA
 figure;
 
 subplot(2,1,1);
