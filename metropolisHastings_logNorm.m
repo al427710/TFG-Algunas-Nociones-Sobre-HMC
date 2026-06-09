@@ -51,7 +51,7 @@ title('Metropolis-Hastings - Distribución Log-Normal');
 legend('Muestras MCMC','Distribución real');
 grid on;
 
-% Trace plot
+% Traza
 figure;
 plot(x);
 xlabel('Iteración');
